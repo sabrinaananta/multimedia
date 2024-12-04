@@ -1,0 +1,31 @@
+.banner {
+    background: url(https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg) no-repeat center;
+    background-size: cover;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    color: #fff;
+}
+
+.small-image {
+    width: 150px; 
+    height: auto; 
+  }
+
+.small-image2 {
+    width: 115px; 
+    height: auto; 
+}
+
+.video-container {
+    background-color: #3588db; /* Warna latar belakang */
+    padding: 20px; /* Menambahkan padding untuk memberi jarak antara video dan latar belakang */
+    border-radius: 10px; /* Membuat sudut melengkung */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Memberikan bayangan untuk efek lebih menarik */
+  }
+  
+  .video-responsive {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+  }
+  
